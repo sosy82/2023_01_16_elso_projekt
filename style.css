@@ -1,0 +1,25 @@
+.kartyaText {
+    text-align: justify;
+}
+
+.kartya {
+    /*min-width: 300px;*/
+    min-height: 825px;
+    margin: 0 auto;
+}
+
+#fonal {
+    width: 90%;
+    margin: 0 auto;
+    border: 2px black solid;
+}
+
+#tablazat {
+    border: 2px white solid;
+}
+
+a,
+a:hover {
+    color: orange;
+    text-decoration: none;
+}
